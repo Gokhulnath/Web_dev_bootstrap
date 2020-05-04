@@ -37,6 +37,13 @@ body {
   border-bottom: 1px solid #ddd;
   padding: 10px; }
 
+#option1{
+    visibility: hidden;
+}
+#option2{
+    visibility: hidden;
+}
+
 .carousel {
   background: #512DA8; }
   .carousel .carousel-item {
@@ -52,3 +59,15 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
+
+.modal .modal-header {
+  background: #512DA8;
+  color: #ddd; }
+  .modal .modal-header button {
+    color: #ddd; }
+
+.modal .modal-body {
+  background: #D1C4E9; }
+
+.modal .modal-footer {
+  background: #D1C4E9; }
