@@ -1,10 +1,4 @@
 # Bootstrap
-Front-End Web UI Frameworks and Tools: Bootstrap 4 (Coursera):  
-https://www.coursera.org/learn/bootstrap-4/home/welcome
-
-
-The main files and folders that are used in this course are index.html, aboutus.html, contactus.html, js/, img/, css/
-Other files were created for learning purposes.
 
 ## To run this project locally:
 
